@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/TimCharon1/ticket-lifecycle/blob/main/README.md)
 
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/joshmadakoredmonds/configure-ad)
+  - [Configuring Active Directory within Azure VMs](https://github.com/TimCharon1/configure-ad/blob/main/README.md)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakoredmonds/azure-network-protocols)
 
 [linkedin]: [Connect with me on LinkedIn](https://www.linkedin.com/in/tim-charon-64180267/)
