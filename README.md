@@ -9,6 +9,6 @@
 
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/TimCharon1/configure-ad/blob/main/README.md)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakoredmonds/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/TimCharon1/azure-network-protocols/blob/main/README.md)
 
 [linkedin]: [Connect with me on LinkedIn](https://www.linkedin.com/in/tim-charon-64180267/)
