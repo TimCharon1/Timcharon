@@ -6,6 +6,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/TimCharon1/osticket-prereqs/blob/main/README.md)
   - [osTicket: Post-Installation Configuration](https://github.com/TimCharon1/post-install-config/blob/main/README.md)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/TimCharon1/ticket-lifecycle/blob/main/README.md)
+  - [MDT-WDS-Imaging](https://github.com/TimCharon1/MDT-WDS-Imaging/blob/main/README.md)
 
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/TimCharon1/configure-ad/blob/main/README.md)
